@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="100" height="100">
 </div>
 
-# All Assignments Of Weeks in Elzero Web School For JavaScript
+# Elzero Web School All Assignments For JavaScript
 
 This repository contains all the assignments for the Elzero Web School JavaScript course.
 
