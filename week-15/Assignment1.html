@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Assignment 1</title>
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      body {
+        padding: 0 15px;
+      }
+      .page {
+        width: 600px;
+        max-width: 100%;
+        margin: 30px auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      form {
+        background-color: #eee;
+        padding: 10px;
+      }
+      form label {
+        display: inline-block;
+        width: 130px;
+      }
+      .pairs {
+        margin: 5px;
+        font-size: 18px;
+      }
+      select {
+        width: 115px;
+      }
+      .workspace {
+        font-family: "Open Sans", sans-serif;
+        font-size: 16px;
+        margin-top: 30px;
+        padding: 10px;
+        border: 1px solid blue;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+        line-height: 1.5;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <form action="">
+        <div class="pairs">
+          <label for="font-family">Font Family</label>
+          <select name="font-family" id="font-family">
+            <option value="Open Sans">Open Sans</option>
+            <option value="Cairo">Cairo</option>
+            <option value="Roboto">Roboto</option>
+          </select>
+        </div>
+        <div class="pairs">
+          <label for="color">Color</label>
+          <select name="color" id="color">
+            <option value="black">Black</option>
+            <option value="green">Green</option>
+            <option value="blue">Blue</option>
+            <option value="steelblue">Steelblue</option>
+            <option value="orange">Orange</option>
+            <option value="red">Red</option>
+          </select>
+        </div>
+        <div class="pairs">
+          <label for="font-size">Font Size</label>
+          <select name="font-size" id="font-size">
+            <option value="16px">16</option>
+            <option value="17px">17</option>
+            <option value="18px">18</option>
+            <option value="19px">19</option>
+            <option value="20px">20</option>
+            <option value="21px">21</option>
+            <option value="22px">22</option>
+            <option value="23px">23</option>
+            <option value="24px">24</option>
+            <option value="25px">25</option>
+            <option value="26px">26</option>
+            <option value="27px">27</option>
+            <option value="28px">28</option>
+            <option value="29px">29</option>
+            <option value="30px">30</option>
+          </select>
+        </div>
+      </form>
+      <div class="workspace">
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab quasi
+        provident magnam. Sit voluptatum nisi iusto neque possimus. Delectus nam
+        ut impedit assumenda quidem ad est, blanditiis atque autem eos!
+      </div>
+    </div>
+    <script src="Assignment1.js"></script>
+  </body>
+</html>
