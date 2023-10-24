@@ -8,7 +8,7 @@ This repository contains all the assignments for the Elzero Web School JavaScrip
 
 ## Week 20 (Lessons 179 to 188)
 
-- [Link to Week 20 Assignments on Elzero.org - Lessons 179 to 188](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/lesson-from-179-to-188/)
+- [Link to Week 20 Assignments on Elzero.org - Lessons 179 to 188](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)
 
 ---
 <div align="center">
