@@ -8,7 +8,7 @@ This repository contains all the assignments for the Elzero Web School JavaScrip
 
 ## Week 6 (Lessons 040 to 047)
 
-- [Link to Week 6 Assignments on Elzero.org - Lessons 40 to 47](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/lesson-from-040-to-047/)
+- [Link to Week 6 Assignments on Elzero.org - Lessons 40 to 47](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/)
 
 ---
 <div align="center">
