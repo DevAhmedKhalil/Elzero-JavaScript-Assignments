@@ -39,7 +39,7 @@ This repository contains all the assignments for the Elzero Web School JavaScrip
 
 - [Link to Week 6 Assignments on Elzero.org - Lessons 40 to 47](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/)
 
-## Week 7 (Lessons 048 to 053)
+## Week 7 (Lessons 048 to 056)
 
 - [Link to Week 7 Assignments on Elzero.org - Lessons 48 to 53](https://elzero.org/javascript-bootcamp-assignments-lesson-from-048-to-053/)
 - [Link to Week 7 Assignments on Elzero.org - Lessons 54 to 56](https://elzero.org/javascript-bootcamp-assignments-lesson-from-054-to-056/)
@@ -72,37 +72,37 @@ This repository contains all the assignments for the Elzero Web School JavaScrip
 
 - [Link to Week 14 Assignments on Elzero.org - Lessons 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)
 
-## Week 15 (Lessons 111 to 133)
+## Week 15 (Lessons 111 to 114)
 
-- [Link to Week 15 Assignments on Elzero.org - Lessons 111 to 133](https://elzero.org/javascript-bootcamp-assignments-lesson-from-111-to-114/)
+- [Link to Week 15 Assignments on Elzero.org - Lessons 111 to 114](https://elzero.org/javascript-bootcamp-assignments-lesson-from-111-to-114/)
 
-## Week 16 (Lessons 134 to 146)
+## Week 16 (Lessons 115 to 122)
 
-- [Link to Week 16 Assignments on Elzero.org - Lessons 134 to 146](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)
+- [Link to Week 16 Assignments on Elzero.org - Lessons 115 to 122](https://elzero.org/javascript-bootcamp-assignments-lesson-from-115-to-122/)
 
-## Week 17 (Lessons 147 to 158)
+## Week 17 (Lessons 123 to 133)
 
-- [Link to Week 17 Assignments on Elzero.org - Lessons 147 to 158](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/)
+- [Link to Week 17 Assignments on Elzero.org - Lessons 123 to 133](https://elzero.org/javascript-bootcamp-assignments-lesson-from-123-to-133/)
 
-## Week 18 (Lessons 159 to 168)
+## Week 18 (Lessons 134 to 146)
 
-- [Link to Week 18 Assignments on Elzero.org - Lessons 159 to 168](https://elzero.org/javascript-bootcamp-assignments-lesson-from-159-to-168/)
+- [Link to Week 18 Assignments on Elzero.org - Lessons 134 to 146](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)
 
-## Week 19 (Lessons 169 to 178)
+## Week 19 (Lessons 147 to 158)
 
-- [Link to Week 19 Assignments on Elzero.org - Lessons 169 to 178](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/)
+- [Link to Week 19 Assignments on Elzero.org - Lessons 147 to 158](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/)
 
-## Week 20 (Lessons 179 to 188)
+## Week 20 (Lessons 159 to 168)
 
-- [Link to Week 20 Assignments on Elzero.org - Lessons 179 to 188](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)
+- [Link to Week 20 Assignments on Elzero.org - Lessons 159 to 168](https://elzero.org/javascript-bootcamp-assignments-lesson-from-159-to-168/)
 
-## Week 21 (Lessons 189 to 198)
+## Week 21 (Lessons 169 to 178)
 
-- [Link to Week 21 Assignments on Elzero.org - Lessons 189 to 198](https://elzero.org/javascript-bootcamp-assignments-lesson-from-189-to-198/)
+- [Link to Week 21 Assignments on Elzero.org - Lessons 169 to 178](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/)
 
-## Week 22 (Lessons 199 to 208)
+## Week 22 (Lessons 179 to 188)
 
-- [Link to Week 22 Assignments on Elzero.org - Lessons 199 to 208](https://elzero.org/javascript-bootcamp-assignments-lesson-from-199-to-208/)
+- [Link to Week 22 Assignments on Elzero.org - Lessons 188 to 188](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)
 
 ---
 <div align="center">
