@@ -6,7 +6,7 @@
 
 This repository contains all the assignments for the Elzero Web School JavaScript course.
 
-## Week 7 (Lessons 048 to 053)
+## Week 7 (Lessons 048 to 056)
 
 - [Link to Week 7 Assignments on Elzero.org - Lessons 48 to 53](https://elzero.org/javascript-bootcamp-assignments-lesson-from-048-to-053/)
 - [Link to Week 7 Assignments on Elzero.org - Lessons 54 to 56](https://elzero.org/javascript-bootcamp-assignments-lesson-from-054-to-056/)
