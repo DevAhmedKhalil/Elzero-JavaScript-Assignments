@@ -6,9 +6,9 @@
 
 This repository contains all the assignments for the Elzero Web School JavaScript course.
 
-## Week 17 (Lessons 147 to 158)
+## Week 17 (Lessons 123 to 133)
 
-- [Link to Week 17 Assignments on Elzero.org - Lessons 147 to 158](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/)
+- [Link to Week 17 Assignments on Elzero.org - Lessons 123 to 133](https://elzero.org/javascript-bootcamp-assignments-lesson-from-123-to-133/)
 
 ---
 <div align="center">
