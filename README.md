@@ -8,7 +8,7 @@ This repository contains all the assignments for the Elzero Web School JavaScrip
 
 ## Week 17 (Lessons 147 to 158)
 
-- [Link to Week 17 Assignments on Elzero.org - Lessons 147 to 158](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/lesson-from-147-to-158/)
+- [Link to Week 17 Assignments on Elzero.org - Lessons 147 to 158](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/)
 
 ---
 <div align="center">
