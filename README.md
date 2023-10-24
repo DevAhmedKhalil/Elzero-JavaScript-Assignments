@@ -8,9 +8,9 @@ This repository contains all the assignments for the Elzero Web School JavaScrip
 
 ## Week 5 (Lessons 031 to 039)
 
-- [Link to Week 5 Assignments on Elzero.org - Lessons 31 to 32](https://elzero.org/javascript-bootcamp-assignments-lesson-from-031-to-032/lesson-from-031-to-032/)
-- [Link to Week 5 Assignments on Elzero.org - Lessons 33 to 37](https://elzero.org/javascript-bootcamp-assignments-lesson-from-033-to-037/lesson-from-033-to-037/)
-- [Link to Week 5 Assignments on Elzero.org - Lessons 38 to 39](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/lesson-from-038-to-039/)
+- [Link to Week 5 Assignments on Elzero.org - Lessons 31 to 32](https://elzero.org/javascript-bootcamp-assignments-lesson-from-031-to-032/)
+- [Link to Week 5 Assignments on Elzero.org - Lessons 33 to 37](https://elzero.org/javascript-bootcamp-assignments-lesson-from-033-to-037/)
+- [Link to Week 5 Assignments on Elzero.org - Lessons 38 to 39](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/)
 
 
 ---
