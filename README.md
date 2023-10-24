@@ -8,7 +8,7 @@ This repository contains all the assignments for the Elzero Web School JavaScrip
 
 ## Week 1 (Lessons 001 to 009)
 
-- [Link to Week 1 Assignments on Elzero.org - Lessons 001 to 009](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/lesson-from-001-to-009/)
+- [Link to Week 1 Assignments on Elzero.org - Lessons 001 to 009](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/)
 
 ---
 <div align="center">
