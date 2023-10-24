@@ -6,9 +6,9 @@
 
 This repository contains all the assignments for the Elzero Web School JavaScript course.
 
-## Week 21 (Lessons 189 to 198)
+## Week 21 (Lessons 169 to 178)
 
-- [Link to Week 21 Assignments on Elzero.org - Lessons 189 to 198](https://elzero.org/javascript-bootcamp-assignments-lesson-from-189-to-198/)
+- [Link to Week 21 Assignments on Elzero.org - Lessons 169 to 178](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/)
 
 ---
 <div align="center">
