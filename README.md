@@ -9,6 +9,7 @@ This repository contains all the assignments for the Elzero Web School JavaScrip
 ## Week 2 (Lessons 010 to 017)
 
 - [Link to Week 2 Assignments on Elzero.org - Lessons 010 to 017](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/)
+- #### [Solution Of Week 2](https://github.com/DevAhmedKhalil/Elzero-JavaScript-Assignments/tree/Week-2/week-2)
 
 ---
 <div align="center">
