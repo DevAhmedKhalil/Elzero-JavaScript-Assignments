@@ -9,6 +9,7 @@ This repository contains all the assignments for the Elzero Web School JavaScrip
 ## Week 8 (Lessons 057 to 063)
 
 - [Link to Week 8 Assignments on Elzero.org - Lessons 57 to 63](https://elzero.org/javascript-bootcamp-assignments-lesson-from-057-to-063/)
+- #### [Solution Of Week 8](https://github.com/DevAhmedKhalil/Elzero-JavaScript-Assignments/tree/Week-8/week-8)
 
 ---
 <div align="center">
